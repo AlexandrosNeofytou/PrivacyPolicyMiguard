@@ -1,0 +1,35 @@
+Terms and Conditions
+
+Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the [Miguard] mobile application (the "Service") operated by [Miguard] ("us", "we", or "our").
+
+Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users, and others who access or use the Service.
+
+By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service.
+
+1. Privacy
+
+Your privacy is critically important to us. By using the Service, you consent to the collection and use of information in accordance with our Privacy Policy.
+
+2. Data Collection
+
+The Service records your voice and stores the last 50 words spoken by you along with your location data. This information is sent to our secure servers for processing and storage in the cloud.
+
+3. Usage
+
+The data collected is used solely for the purpose of improving the functionality and performance of the Service. We may also use this data for research and development purposes to enhance user experience.
+
+4. Data Security
+
+We take appropriate measures to ensure the security of your data. However, we cannot guarantee that unauthorized third parties will never be able to defeat our security measures or use your personal information for improper purposes.
+
+5. Consent
+
+By using the Service, you consent to the collection, storage, and processing of your voice data and location information as described in these Terms and our Privacy Policy.
+
+6. Updates to Terms
+
+We reserve the right to update or change our Terms at any time without prior notice. Any changes will be effective immediately upon posting on this page.
+
+7. Contact Us
+
+If you have any questions about these Terms, please contact us at myguardapp@gmail.com.
